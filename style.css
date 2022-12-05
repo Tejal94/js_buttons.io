@@ -1,0 +1,25 @@
+
+.right img{
+    height: 70vh;
+    width: 35vw;
+}
+
+.main{
+    background-color: beige;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.buttons{
+
+    list-style: none;    
+}
+
+.buttons button{
+    border-radius: 4px;
+    margin-bottom: 5px;
+    background-color: darkred;
+    color: white;
+}
